@@ -1,0 +1,3 @@
+# The Ollama backend uses only Python's standard library.
+# Install and run Ollama separately, then make sure your model appears in:
+#     ollama list
